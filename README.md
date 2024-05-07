@@ -16,4 +16,5 @@ student's location, and the decelerating hidden smoke.
 Game Objective: Collect all reward items (A+ papers, coffees, beds) and exit the level. The game
 ends if the player is caught by the enemy or if their score becomes negative.
 
-The executable JAR file is found in the main directory, to see source code please contact me, contact info in bio
+The executable JAR file is found in the main directory, to see source code please contact me 
+~ cannot post source code pubically due to academic dishonesty policies ~
