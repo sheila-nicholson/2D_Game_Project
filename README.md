@@ -13,8 +13,17 @@ two along the way, they just might be able to escape from the labyrinth that is 
 Hall. That is, if they are not defeated by the many piles of books, vortexes that respawn the
 student's location, and the decelerating hidden smoke.
 
-Game Objective: Collect all reward items (A+ papers, coffees, beds) and exit the level. The game
-ends if the player is caught by the enemy or if their score becomes negative.
+# Game Objective: Collect all reward items (A+ papers, coffees, beds) and exit the level. 
+The game ends if the player is caught by the enemy or if their score becomes negative.
 
-The executable JAR file is found in the main directory, to see source code please contact me 
-~ cannot post source code pubically due to academic dishonesty policies ~
+# To run:
+Download the "LostInRCB.jar" file
+Ensure Java is installed on system
+Via command line:
+- navigate to the location of LostInRCB.jar file
+```
+java -jar LostInRCB.jar
+```
+
+To see source code please contact me 
+- ~ cannot post source code pubically due to academic dishonesty policies ~
