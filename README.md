@@ -1,5 +1,5 @@
 # 2D Style Video Game - Escape From RCB
-Created by: Sheila Nicholson, Brendan Shen, Jonas Lam, and Yanjun Qian
+Created by: Sheila Nicholson, Brendan Shen, Jonas Lam, and Yanjun Qian<br/>
 Course: CMPT 276 - Introduction to Software Engineering, Spring 2024
 
 # The Game: Escape from RCB
