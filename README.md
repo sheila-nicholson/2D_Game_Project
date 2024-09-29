@@ -1,29 +1,30 @@
-# 2D Style Video Game - Escape from RCB
-This project was created by: Sheila Nicholson, Brendan Shen, Jonas Lam and Yanjun Qian
-For the class: CMPT 276 - Introduction to Software Engineering, taken in Spring 2024
+# 2D Style Video Game - Escape From RCB
+Created by: Sheila Nicholson, Brendan Shen, Jonas Lam, and Yanjun Qian
+Course: CMPT 276 - Introduction to Software Engineering, Spring 2024
 
 # The Game: Escape from RCB
-The main character of the game is a student attending SFU. In the midst of
-finals season, they unintentionally slip into a deep slumber. Utterly exhausted from constant
-studying, assignment deadlines, and cramming of missed lectures, they slowly blink their eyes
-open and are shocked to find themselves lost in the deep, dark maze known as Robert C. Brown
-Hall. The player must evade a rabid bear, a zombie professor, or a failed exam to make their way
-out. With the help of copious amounts of caffeine, ever-moving A+ papers, and a cozy bed or
-two along the way, they just might be able to escape from the labyrinth that is Robert C. Brown
-Hall. That is, if they are not defeated by the many piles of books, vortexes that respawn the
-student's location, and the decelerating hidden smoke.
+In this game, you play as a student at SFU who, amid the chaos of finals season, accidentally slips 
+into a deep slumber. Exhausted from constant studying, looming assignment deadlines, and the stress 
+of cramming missed lectures, the student awakens to find themselves lost in the dark maze known as 
+Robert C. Brown Hall (iykyk). 
 
-# Game Objective: Collect all reward items (A+ papers, coffees, beds) and exit the level. 
-The game ends if the player is caught by the enemy or if their score becomes negative.
+As the player, you must evade various threats, including a rabid bear, a zombie professor, and the 
+looming specter of a failed exam. With the help of copious amounts of caffeine, ever-moving A+ papers, 
+and the occasional cozy bed, you just might find a way out of this labyrinth. However, beware of the 
+many piles of books, vortexes that can respawn your location, and the disorienting hidden smoke 
+that could hinder your escape.
 
-# To run:
-Download the "LostInRCB.jar" file
-Ensure Java is installed on system
-Via command line:
-- navigate to the location of LostInRCB.jar file
+# Game Objective:
+Collect all reward items (A+ papers, coffees, beds) and successfully exit the level. The game ends 
+if the player is caught by an enemy or if their score falls below zero.
+
+# To Run the Game:
+1. Download the LostInRCB.jar file.
+2. Ensure that Java is installed on your system.
+3. Open the command line and navigate to the location of the LostInRCB.jar file.
 ```
 java -jar LostInRCB.jar
 ```
 
-To see source code please contact me 
-- ~ cannot post source code pubically due to academic dishonesty policies ~
+For access to the source code, please contact me directly, as I cannot share it publicly due to 
+academic honesty policies.
